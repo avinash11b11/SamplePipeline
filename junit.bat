@@ -1,0 +1,1 @@
+echo "Junit Completed for SamplePipeline"
